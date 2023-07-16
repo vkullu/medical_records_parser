@@ -1,0 +1,5 @@
+data/*
+clinve
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
